@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to My GitHub Profile!
 ### I'm Ilyas, a Java enthusiast with a passion for crafting elegant solutions and pushing the boundaries of what's possible in software development. Join me as I journey through the fascinating world of Java and beyond!
-## About Me ℹ️
+### About Me ℹ️
 * 🎓 Equipped with a solid foundation in Java development and a thirst for continuous learning.
 * 💼 Currently wielding my skills as a Java Developer to create web application
 * 🎓 Proud graduate with a degree in TUIT, specializing in Telecommunication technology.
@@ -8,17 +8,17 @@
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyasNasirov&show_icons=true)  
 
-## 🔧 Skills & Experience:
+### 🔧 Skills & Experience:
 * Language: Java
 * Frameworks & Libraries: Spring Framework, Spring Boot, Hibernate, Apache Maven
 * Tools & Platforms: IntelliJ IDEA, Git, MySQL.
-## 🚀 Projects
+### 🚀 Projects
 Let's embark on a journey through some of my stellar projects:
 * [Spring-MVC](https://github.com/IlyasNasirov/spring-MVC)
 * [Online Library](https://github.com/IlyasNasirov/online_library)
 
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 Let's connect to discuss Java development, web applications, or anything under the sun:
 
 <a href="http://bit.ly/Instlyas2d"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/98d56bad-4af6-4b3c-b197-27c3aca2cf16" width="50"></a>
