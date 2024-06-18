@@ -11,7 +11,7 @@
 ### 🔧 Skills & Experience:
 * Language: Java
 * Frameworks & Libraries: Spring Framework, Spring Boot, Hibernate, Apache Maven
-* Tools & Platforms: IntelliJ IDEA, Git, MySQL.
+* Tools & Platforms: IntelliJ IDEA, Git, MySQL, PostgreSQL, Postman.
 ### 🚀 Projects
 Let's embark on a journey through some of my stellar projects:
 * [Spring-MVC](https://github.com/IlyasNasirov/spring-MVC)
