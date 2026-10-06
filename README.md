@@ -45,5 +45,5 @@ I build production AI systems and automations for business: RAG assistants, mult
 
 ### 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@your_username-26A5E4?logo=telegram&logoColor=white)](https://t.me/ilyas2d)
+[![Telegram](https://img.shields.io/badge/Telegram-@ilyas2d-26A5E4?logo=telegram&logoColor=white)](https://t.me/ilyas2d)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e4d73ba8721edd1b)
