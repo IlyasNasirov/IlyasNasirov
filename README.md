@@ -1,35 +1,49 @@
-## Hi there 👋, Welcome to My GitHub Profile!
-### I'm Ilyas, a Java enthusiast with a passion for crafting elegant solutions and pushing the boundaries of what's possible in software development. Join me as I journey through the fascinating world of Java and beyond!
-### About Me ℹ️
-* 🎓 Equipped with a solid foundation in Java development and a thirst for continuous learning.
-* 💼 Currently wielding my skills as a Java Developer to create web application
-* 🎓 Proud graduate with a degree in TUIT, specializing in Telecommunication technology.
-* 🚀  Fueled by a love for Java, I'm on a mission to build dynamic and innovative web applications.
+# Hi, I'm Ilyas 👋
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyasNasirov&show_icons=true)  
+**AI/ML Engineer & agents developer**
 
-### 🔧 Skills & Experience:
-* Language: Java
-* Frameworks & Libraries: Spring Framework, Spring Boot, Hibernate, Apache Maven
-* Tools & Platforms: IntelliJ IDEA, Git, MySQL, PostgreSQL, Postman.
-### 🚀 Projects
-Let's embark on a journey through some of my stellar projects:
-* [Spring-MVC](https://github.com/IlyasNasirov/spring-MVC)
-* [Online Library](https://github.com/IlyasNasirov/online_library)
+I build production AI systems and automations for business: RAG assistants, multi-step AI agents, voice bots, Telegram bots, and data pipelines that remove manual work.
 
+---
 
-### 📫 Get in Touch
-Let's connect to discuss Java development, web applications, or anything under the sun:
+### 🧠 What I do
 
-<a href="http://bit.ly/Instlyas2d"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/98d56bad-4af6-4b3c-b197-27c3aca2cf16" width="50"></a>
-<a href="http://bit.ly/fbIlyas2d"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/8b8845e7-9efd-4062-b3a2-54e75d29913a" width="50"></a>
-<a href="http://bit.ly/lnIlyas2d"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/66d3a764-944e-479e-9058-cfd8a354c8aa" width="50"></a>
-<a href="http://bit.ly/tgIlyas2d"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/93e5e4ef-e9ab-4270-9c9f-b86dc9e68b9f" width="50"></a>
-<a href="http://bit.ly/3Iea302"><img src="https://github.com/IlyasNasirov/spring_mvc.Pr_1/assets/80934826/73d6f2cf-b935-445c-9831-520ce57708a5" width="50"></a>
+- **RAG systems:** knowledge-base assistants over documents, sites and databases (LlamaIndex, LangChain, pgvector)
+- **AI agents:** tool-using and multi-step agents with stateful workflows (LangGraph, LangChain)
+- **ML & fine-tuning:** model fine-tuning and adaptation for domain-specific tasks
+- **Voice AI:** speech-to-text (STT) and text-to-speech (TTS) pipelines, voice assistants
+- **Automation:** n8n workflows, API integrations, CRM and content pipelines
+- **Data parsing:** marketplace and web scraping (Playwright/patchright)
+- **Self-hosted n8n deployment:** Docker, PostgreSQL, Redis, Cloudflare Tunnel
 
-I'm always up for engaging conversations and exciting collaborations!
+---
 
-🙏 Acknowledgements
-A heartfelt thank you to all who have supported and inspired me on my journey as a Java developer.
+### 🛠 Tech stack
 
-#### Thanks for visiting my GitHub profile! Let's code some magic together! ✨
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Backend | FastAPI, aiogram |
+| LLM / RAG | LlamaIndex, LangChain, LangGraph, pgvector |
+| ML | Fine-tuning, embeddings, model evaluation |
+| Voice | STT, TTS |
+| Automation | n8n, webhooks, REST APIs |
+| Data | PostgreSQL, Supabase, Redis, Airtable |
+| Scraping | Playwright, patchright |
+| DevOps | Docker, Cloudflare Tunnel, self-hosting |
+
+---
+
+### 🚀 Selected work
+
+- **AI car consultant:** Python agent that advises leads from Instagram/TikTok via Telegram messenger
+- **Content pipelines:** n8n pipelines for auto-publishing to WordPress/WooCommerce and Telegram
+- **Marketplace tools:** product-card parsing and AI image/card generation for sellers
+- **Telegram Mini App:** car catalog with n8n backend and Google Sheets as database
+- **Multi-tenant web app:** Supabase (Auth, Storage, Postgres RLS)
+---
+
+### 📫 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@your_username-26A5E4?logo=telegram&logoColor=white)](https://t.me/ilyas2d)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e4d73ba8721edd1b)
